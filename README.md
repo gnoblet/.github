@@ -47,7 +47,7 @@ I'm a (humanitarian) quantitative researcher who loves a good meme almost as muc
 - **My Personal Website: Only to Learn How to Build One**  
   A totally-not-desperate showcase of what I used to build this website, featuring React, TypeScript, and Quarto.
 
-[View All Blog Posts](https://gnoblet.github.io/](https://gnoblet.github.io/blog)
+[View All Blog Posts](https://gnoblet.github.io/blog)
 
 ---
 
