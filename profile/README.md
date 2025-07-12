@@ -39,7 +39,7 @@ I'm a (humanitarian) quantitative researcher who loves a good meme almost as muc
 - **visualizeR: Utility functions for Humanitarian Viz**  
   *(Ongoing)* R package providing utility functions and sane defaults for humanitarian analysts with colors, scales and default visualizations.
 
-[View All Projects](https://github.com/gnoblet?tab=repositories)
+[View All Projects](https://gnoblet.github.io/projects)
 
 ---
 
@@ -48,7 +48,7 @@ I'm a (humanitarian) quantitative researcher who loves a good meme almost as muc
 - **My Personal Website: Only to Learn How to Build One**  
   A totally-not-desperate showcase of what I used to build this website, featuring React, TypeScript, and Quarto.
 
-[View All Blog Posts](https://gnoblet.github.io/)
+[View All Blog Posts](https://gnoblet.github.io/](https://gnoblet.github.io/blog)
 
 ---
 
